@@ -44,18 +44,11 @@ Technologies I Work With
 </div>
 
 
-GitHub Stats
-<p align="center">
-
- <img height="220" src="https://github-readme-stats.vercel.app/api?username=pranithcrk&show_icons=true&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
-
- <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithcrk&count_private=true&langs_count=6&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/pranit-patil-profile/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
+
 
 
