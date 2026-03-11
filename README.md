@@ -28,7 +28,9 @@ IDE & Tools
 <img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office"/>
 </div>
-echnologies I Work With
+
+
+Technologies I Work With
 <div>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/my-sql.png" alt="SQL"/>
@@ -40,10 +42,14 @@ echnologies I Work With
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow"/>
 </div>
+
+
 GitHub Stats
 <p align="center">
-<img height="220" src="https://github-readme-stats.vercel.app/api?username=pranithcrk&show_icons=true&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithcrk&count_private=true&langs_count=6&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
+
+ <img height="220" src="https://github-readme-stats.vercel.app/api?username=pranithcrk&show_icons=true&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
+
+ <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranithcrk&count_private=true&langs_count=6&theme=default&title_color=3080ED&icon_color=3080ED&text_color=000000&bg_color=FFFEFE"/>
 </p>
 
 <p align="center">
@@ -51,4 +57,5 @@ GitHub Stats
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
+
 
