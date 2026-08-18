@@ -6,8 +6,7 @@
 
 I build the production data pipelines and models behind regulatory reporting and
 liquidity risk analytics — FR2052a, LCR, NSFR — on transaction data in the millions
-of rows per day. My work sits where data engineering, statistics, and financial
-reporting meet: numbers that are correct, on time, and explainable.
+of rows per day. My work sits where data engineering, quantitative modelling, and Analytics meet: numbers that are correct, on time, and explainable.
 
 Lately I've been building anomaly detection and agent-based variance explanation on
 top of those pipelines — systems that don't just flag a break, but tell an analyst
