@@ -1,54 +1,53 @@
-<i>
- <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30px"> 
- <strong>Hey there, I'm Pranit Patil</strong>
-</i>
-<div>
-<img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">   
-</div>
-<br>
-<i>
+<h2>Hey there, I'm Pranit Patil</h2>
 
- Risk Engineering Analyst at Goldman Sachs — Liquidity Risk Analytics & Reporting
- MIS Graduate from Eller College of Management, University of Arizona
- Passionate about Data Engineering, Data Science, and AI/ML
- Building real-time data pipelines, automating reporting workflows, and exploring AI-powered tools
- Currently diving deeper into Kafka, Airflow, LangChain, and cloud-native architectures
- Sub-4-hour marathon finisher | Basketball, badminton, cycling & swimming enthusiast
+<img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-</i>
+**Quantitative Strategist — Core Strats (Liquidity Risk) @ Goldman Sachs**
 
+I build the production data pipelines and models behind regulatory reporting and
+liquidity risk analytics — FR2052a, LCR, NSFR — on transaction data in the millions
+of rows per day. My work sits where data engineering, statistics, and financial
+reporting meet: numbers that are correct, on time, and explainable.
 
-IDE & Tools
-<div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Microsoft Office"/>
-</div>
+Lately I've been building anomaly detection and agent-based variance explanation on
+top of those pipelines — systems that don't just flag a break, but tell an analyst
+*why* it happened.
 
+- MS in Management Information Systems, Eller College — University of Arizona
+- B.Tech in Information Technology, Pune University
+- Currently going deeper on: Databricks, dbt, LLM agent orchestration, streaming architectures
+- Sub-4-hour marathoner | Cycling, basketball, badminton, swimming
 
-Technologies I Work With
-<div>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/my-sql.png" alt="SQL"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/apache-kafka.png" alt="Kafka"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png" alt="TensorFlow"/>
-</div>
+<br clear="right">
 
+### Stack
 
-<p align="center">
-<a href="https://www.linkedin.com/in/pranit-patil-profile/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+**Data & Pipelines** &nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
+**ML & Analytics** &nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
+**Cloud & Infra** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patilpranit83@outlook.com)
